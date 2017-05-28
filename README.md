@@ -21,5 +21,4 @@ You should now be able to run the sample application
 
 There are two values in AppController.java that you'll need to update
 before you can send data to Greendeck and receive prices for your products. You'll need to update the source code with
-your Mixpanel API Token to send data, and your Google APIs Sender ID
-to receive notifications.sss
+your Greendeck Project's Credentials to send data. You can find in your Dashboard. For any queries; drop a mail at developers@greendeck.co

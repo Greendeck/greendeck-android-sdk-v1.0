@@ -1,7 +1,7 @@
 # Sample Android Application for Greendeck Integration
 
 This repository contains a sample application demonstrating how you
-can use Greendeck in your Android apps.
+can use Greendeck in your Android apps. You can find the full documentation <a href = "http://www.greendeck.co/#/docs/guides/view/android">here</a>.
 
 ## Getting Started
 
